@@ -1,4 +1,6 @@
 # NOX-Personal-AI-Assistent
+<img width="393" height="278" alt="image" src="https://github.com/user-attachments/assets/e83db0fe-d847-4183-bcb7-f415174c6478" />
+
 NOX is a modern personal AI assistant built with Python, featuring a sleek dark-mode desktop interface. It combines conversational AI, voice recognition, reminders, notes, file search, weather, currency exchange, and music — all in one place.
 What NOX Can Do
 At its core, NOX is a conversational AI assistant. You can type anything into the chat and receive intelligent, context-aware responses powered by a large language model. But what makes NOX stand out is how many things it handles beyond simple chat. Every feature is accessible directly from the conversation window — just type or speak naturally, and NOX figures out what you need.
@@ -25,6 +27,5 @@ Music
 NOX also has a built-in music module, accessible from the sidebar. You can control playback without ever leaving the assistant interface, keeping everything in one place.
 <img width="1441" height="916" alt="image" src="https://github.com/user-attachments/assets/05ae0630-3c79-4aa4-8e04-facc16d1fb40" />
 
-
-Music
+Disclaimer: This project is the product of the Algorithm Design laboratory at the Faculty of Automation, Computers, and Electronics, University of Craiova (http://ace.ucv.ro/). It is intended for educational purposes and may include limitations or incomplete features. Use it at your own risk, and conduct thorough testing and configuration before considering any production deployment.
 NOX also has a built-in music module, accessible from the sidebar. You can control playback without ever leaving the assistant interface, keeping everything in one place.
